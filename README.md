@@ -13,7 +13,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-alirezaeimanesh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alirezaeimanesh)](https://twitter.com/alirezaeimanesh)
 <a href="mailto:alirezaimanesh@yahoo.com" target="_black"><img alt="Yahoo Badge" src="https://img.shields.io/badge/-alirezaimanesh-9644F4?&style=flat&logo=Yahoo&logoColor=white" title="Yahoo Badge" /></a>
 <a href="https://api.whatsapp.com/send?phone=+989392584849&amp;text=%D8%B3%D9%84%D8%A7%D9%85%20%D8%AE%D9%88%D8%A8%DB%8C%D8%9F&amp;source=&amp;data=&amp;app_absent=" target="_black"><img alt="Whatsapp Badge" src="https://img.shields.io/badge/-alirezaeimanesh-40c463?&style=flat&logo=Whatsapp&logoColor=white" title="Whatsapp Badge" /></a>
-<a href="https://www.youtube.com/alirezaeimanesh" target="_black"><img alt="Youtube Badge" src="https://img.shields.io/badge/-alirezaimanesh-cf222e?&style=flat&logo=Youtube&logoColor=white" title="Youtube Badge" /></a>
+<a href="https://www.youtube.com/alirezaeimanesh" target="_black"><img alt="Youtube Badge" src="https://img.shields.io/badge/-alirezaeimanesh-cf222e?&style=flat&logo=Youtube&logoColor=white" title="Youtube Badge" /></a>
 <p>🧔🏻 My name is <b>Ali Rezaei Manesh</b>, I'm 21 years old, 🇮🇷 <b>Iran</b> graduated in software engineering and I'm also a <b>Front-end</b> Developer passionate about technology, music and games.</p>
 
 👨🏻‍💻 I currently work remotely as a Junior <b>Front-end</b> Developer.
