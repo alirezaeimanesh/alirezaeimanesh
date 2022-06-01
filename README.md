@@ -5,7 +5,7 @@
 ![Repos Badge](https://badges.pufler.dev/repos/alirezaeimanesh?style=flat&color=0550ae)
 ![Visits Badge](https://badges.pufler.dev/visits/alirezaeimanesh/alirezaeimanesh?style=flat&color=218bff)
 ![Created Badge](https://badges.pufler.dev/created/alirezaeimanesh/alirezaeimanesh?style=flat&color=8250df)
-![GitHub last commit](https://img.shields.io/github/last-commit/alirezaeimanesh/alirezaeimanesh?style=flat&color=40c463)
+![GitHub last commit](https://img.shields.io/github/last-commit/alirezaeimanesh/alirezaeimanesh?style=flat&color=fd7e14)
 ![Updated Badge](https://badges.pufler.dev/updated/alirezaeimanesh/alirezaeimanesh?style=flat&color=ffee4a)
 
 [![Linkedin Badge](https://img.shields.io/badge/-alirezaeimanesh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alirezaeimanesh/)](https://www.linkedin.com/in/alirezaeimanesh/)
