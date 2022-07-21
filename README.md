@@ -1,12 +1,4 @@
 # Hi I'm Ali 👋
-![GitHub followers](https://img.shields.io/github/followers/alirezaeimanesh?style=flat&color=0969da)
-![GitHub User's stars](https://img.shields.io/github/stars/alirezaeimanesh?style=flat&color=fe9600)
-![Years Badge](https://badges.pufler.dev/years/alirezaeimanesh?style=flat&color=cf222e)
-![Repos Badge](https://badges.pufler.dev/repos/alirezaeimanesh?style=flat&color=0550ae)
-![Visits Badge](https://badges.pufler.dev/visits/alirezaeimanesh/alirezaeimanesh?style=flat&color=218bff)
-![Created Badge](https://badges.pufler.dev/created/alirezaeimanesh/alirezaeimanesh?style=flat&color=8250df)
-![GitHub last commit](https://img.shields.io/github/last-commit/alirezaeimanesh/alirezaeimanesh?style=flat&color=fd7e14)
-![Updated Badge](https://badges.pufler.dev/updated/alirezaeimanesh/alirezaeimanesh?style=flat&color=ffee4a)
 
 [![Linkedin Badge](https://img.shields.io/badge/-alirezaeimanesh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alirezaeimanesh/)](https://www.linkedin.com/in/alirezaeimanesh/)
 [![Website Badge](https://img.shields.io/badge/-alirezaeimanesh.ir-4c51bf?style=flat&logo=Google-Chrome&logoColor=white&link=https://alirezaeimanesh.ir)](https://alirezaeimanesh.ir)
